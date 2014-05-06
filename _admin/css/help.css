@@ -1,0 +1,72 @@
+/* La palabra "Temas:" */
+.itemsListTitle {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #0078BF;
+	text-decoration: none;
+	font-weight: bold;
+	white-space: nowrap;	
+}
+
+/* Un item de ese listado */
+.item {
+	font-family : Arial;
+	font-size : 11px;
+	font-weight : bold;
+  color : #7F7F7F;
+  line-height: 16px;
+}
+.item:hover {
+	font-family : Arial;
+	font-size : 11px;
+	font-weight : bold;
+  color : #0078BF;
+  line-height: 16px;
+  text-decoration: none;
+}
+
+/* El item, pero ya en la explicación */
+.itemTitle {
+	font-family : "Trebuchet MS";
+	font-size : 12px;
+	font-weight : bold;
+  color : #0078BF;
+}
+
+/* El texto de la explicación */
+.text {
+	font-family : "Verdana";
+	font-size : 11px;
+  color : "#303430";
+  line-height: 18px;
+}
+
+/* Un link en el texto de la explicación */
+.textLink {
+	font-family : "Verdana";
+	font-size : 11px;
+  color : "#407088";
+  line-height: 18px;
+}
+.textLink:hover {
+	font-family : "Verdana";
+	font-size : 11px;
+  color : "#407088";
+  line-height: 18px;
+  text-decoration: none;
+}
+
+/* El texto "Volver" después de una explicación */
+.back {
+	font-family : "Verdana";
+	font-size : 10px;
+	font-weight : bold;
+  color : "#6A6A6A";
+}
+.back:hover {
+	font-family : "Verdana";
+	font-size : 10px;
+	font-weight : bold;
+  color : "#0078BF";
+  text-decoration: none;
+}

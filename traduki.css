@@ -1,0 +1,150 @@
+.numP {
+	border-top: 1px solid black;
+	padding: 10px 10px 0px 10px;
+}
+
+.numM {
+	padding: 0px 10px 0px 10px;
+}
+
+.numU {
+	border-bottom: 1px solid black;
+	padding:4px;
+	padding: 0px 10px 10px 10px;
+}
+
+.numP, .numM, .numU {
+	width: 34px;
+	text-align:right;
+	border-left: 1px solid black;
+	border-right: 1px solid black;
+}
+
+.oriP {
+	border-top: 1px solid #4A6A9F;
+	padding: 10px 10px 0px 10px;
+}
+
+.oriM {
+	padding: 0px 10px 0px 10px;
+}
+
+.oriU {
+	border-bottom: 1px solid #4A6A9F;
+	padding: 0px 10px 10px 10px;
+}
+
+.oriPrtl {
+	border-top: 1px solid #4A6A9F;
+	padding: 10px 10px 0px 10px;
+	text-align: right;
+}
+
+.oriMrtl {
+	padding: 0px 10px 0px 10px;
+	text-align: right;
+}
+
+.oriUrtl {
+	border-bottom: 1px solid #4A6A9F;
+	padding: 0px 10px 10px 10px;
+	text-align: right;
+}
+
+.oriP, .oriM, .oriU, .oriPrtl, .oriMrtl, .oriUrtl {
+	border-left: 1px solid #4A6A9F;
+	border-right: 1px solid #4A6A9F;
+}
+
+.oriP a:link, .oriM a:link, .oriU a:link, .oriP a:visited, .oriM a:visited, .oriU a:visited, .oriP a:active, .oriM a:active, .oriU a:active, .oriPrtl a:link, .oriMrtl a:link, .oriUrtl a:link, .oriPrtl a:visited, .oriMrtl a:visited, .oriUrtl a:visited, .oriPrtl a:active, .oriMrtl a:active, .oriUrtl a:active {
+	color:black;
+	text-decoration:none;
+}
+
+.oriP a:hover, .oriM a:hover, .oriU a:hover, .oriPrtl a:hover, .oriMrtl a:hover, .oriUrtl a:hover {
+	color:#3A547E;
+	background-color:#EDF0F8;
+	text-decoration:underline;
+}
+
+.traP {
+	border-top: 1px solid #247B0F;
+	padding: 10px 10px 0px 10px;
+}
+
+.traM {
+	padding: 0px 10px 0px 10px;
+}
+
+.traU {
+	border-bottom: 1px solid #247B0F;
+	padding: 0px 10px 10px 10px;
+}
+
+.traPrtl {
+	border-top: 1px solid #247B0F;
+	padding: 10px 10px 0px 10px;
+	text-align: right;
+}
+
+.traMrtl {
+	padding: 0px 10px 0px 10px;
+	text-align: right;
+}
+
+.traUrtl {
+	border-bottom: 1px solid #247B0F;
+	padding: 0px 10px 10px 10px;
+	text-align: right;
+}
+
+.traP, .traM, .traU, .traPrtl, .traMrtl, .traPrtl {
+	border-left: 1px solid #247B0F;
+	border-right: 1px solid #247B0F;
+}
+
+.oriP, .oriM, .oriU, .oriPrtl, .oriMrtl, .oriUrtl, .traP, .traM, .traU, .traPrtl, .traMrtl, .traPrtl {
+	width: 304px;
+}
+
+.traP a:link, .traM a:link, .traU a:link, .traP a:visited, .traM a:visited, .traU a:visited, .traP a:active, .traM a:active, .traU a:active, .traPrtl a:link, .traMrtl a:link, .traUrtl a:link, .traPrtl a:visited, .traMrtl a:visited, .traUrtl a:visited, .traPrtl a:active, .traMrtl a:active, .traUrtl a:active {
+	color:black;
+	text-decoration:none;
+}
+
+.traP a:hover, .traM a:hover, .traU a:hover, .traPrtl a:hover, .traMrtl a:hover, .traUrtl a:hover {
+	background-color:#EDF0F8;
+	text-decoration:underline;
+}
+
+.numP, .numM, .numU, .oriP, .oriM, .oriU, .traP, .traM, .traU {
+	background-color: #F8F8F8;
+}
+
+.asep {
+	width:16px;
+}
+
+.fc1 {
+	position:absolute;
+	border:0px;
+	width:1px;
+	height:1px
+}
+
+.fc2 {
+	position:relative;
+	top:-9px;
+	left:2px;
+	cursor:pointer;
+}
+
+.fc3 {
+	position:relative;
+	width:304px;
+	left:22px;
+	border:1px solid black;
+	background-color:#EDF0F8;
+	z-index:5;
+	padding:4px;
+}

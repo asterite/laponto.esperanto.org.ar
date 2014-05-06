@@ -1,0 +1,24 @@
+.welcomeBackgroundColor {
+	background-color: #FFFFFF;
+}
+
+.welcomeTitle {
+	font-family : Tahoma;
+	font-size : 11px;
+  color : white;
+  background-color: #7F7F7F;
+  font-weight : bold;
+	text-decoration : none;
+}
+
+.welcomeImage {
+	background-color: #EFEFEF;
+}
+
+.welcomeText  {
+	font-family : "Trebuchet MS";
+	font-size : 11px;
+	color : #333333;
+	background-color: #DBDBDB;
+	text-decoration : none;
+}

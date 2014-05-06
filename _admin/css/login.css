@@ -1,0 +1,52 @@
+/* El color de fondo del centro */
+.loginBackgroundColor1 {
+	background-color: White;
+}
+
+/* El color de fondo de los costados */
+.loginBackgroundColor2 {
+	background-color: #F68B1F;
+}
+
+/* El título del login */
+.loginTitle {
+	font-family : Tahoma;
+	font-size : 11px;
+  color : white;
+  background-color: #7F7F7F;
+  font-weight : bold;
+	text-decoration : none;
+}
+
+/* Los textos "Usuario" y "Constraseña" */
+.loginLabel {
+	font-family : Tahoma;
+	font-size : 11px;
+	color : #7F7F7F;
+  font-weight : bold;
+	text-decoration : none;
+}
+
+/* Texto de error */
+.loginError {
+	font-family : "Tahoma";
+	font-size : 11px;
+  color : #994044;
+  background-color: #FFFFFF;
+  font-weight : bold;
+}
+
+/* Botón de "Entrar" */
+.loginButton {
+   FONT-SIZE: 9px;
+   BORDER-RIGHT: 1px solid #6CD2D8;
+   BORDER-TOP: 1px solid #CBFCFF;
+   BORDER-LEFT: 1px solid #CBFCFF;
+   BORDER-BOTTOM: 1px solid #6CD2D8;
+   FONT-FAMILY: Tahoma, sans-serif;
+  	color: #005F97;
+   text-transform: uppercase;
+   text-align: center;
+   text-decoration: none;
+   background-color: #B4ECEF;
+}

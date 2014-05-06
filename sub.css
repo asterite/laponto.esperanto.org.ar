@@ -1,0 +1,190 @@
+body {
+font:12px Verdana, sans-serif;
+background-color:white;
+margin:0px 0px; 
+padding:0px;
+text-align:center;
+}
+
+acronym {
+  border-bottom: 1px dashed black;
+}
+
+form {
+display: inline;
+}
+
+#content {
+width:740px;
+margin:0px auto;
+text-align:left;
+padding:10px;
+}
+
+#popupContent {
+width:90%;
+margin:0px auto;
+text-align:left;
+padding:15px;
+}
+
+body a:link, body a:visited, body a:active {
+color: #4A6A9F;
+}
+
+body a:hover {
+color: #3A547E;
+background-color: #EDF0F8;
+}
+
+#subtiwiki a {
+font-family: arial;
+font-size: 48px;
+font-weight: bold;
+color: #0080FE;
+text-decoration: none;
+}
+
+#beta {
+font-family: arial;
+font-size: 16px;
+font-weight: bold;
+color: #8000FE;
+vertical-align: bottom;
+padding-bottom: 2px;
+}
+
+#userMenu {
+vertical-align: bottom; 
+text-align:right; 
+padding-bottom:2px;
+width: 100%;
+}
+
+#intro {
+	float: left;
+	margin-right: 20px;
+	width: 268px;
+}
+
+#resultadosBusqueda {
+	float:left; 
+	margin-right:20px; 
+	width:498px;
+}
+
+#descripcionIndex {
+padding:10px;
+border-top:1px black solid;
+border-bottom:1px solid black;
+background-color: #F8F8F8;
+}
+
+#descripcion {
+padding:10px;
+border-top: 1px black solid;
+border-bottom: 1px #858585 dashed;
+background-color: #F8F8F8;
+}
+
+#descripcion #titulo {
+font-size:18px;
+margin-bottom: 2px;
+}
+
+#descripcion #subtitulo {
+font-size:14px;
+font-weight:bold;
+margin-bottom:10px;
+}
+
+#menu {
+padding-top: 4px;
+padding-bottom: 4px;
+margin-bottom: 10px;
+background-color: #FDFDFD;
+border-bottom: 1px black solid;
+}
+
+#buscadorPeliculas {
+padding: 10px;
+float: left;
+border: 1px solid #4A6A9F;
+background-color: #F8F8F8;
+width: 200px;
+}
+
+#listadoDeMisPeliculas {
+margin-right: 20px;
+padding: 10px;
+float: left;
+border: 1px solid #247B0F;
+background-color: #F8F8F8;
+width: 476px;
+}
+
+#registracion {
+padding: 10px;
+float: left;
+border: 1px solid #4A6A9F;
+background-color: #F8F8F8;
+margin-right: 20px;
+}
+
+#stranger {
+padding: 10px;
+border: 1px solid #FFCC00;
+background-color: #FFF8C2;
+}
+
+#changesOk {
+padding: 10px;
+border: 1px solid #FFCC00;
+background-color: #FFF8C2;
+}
+
+#mas_contexto {
+margin-left:66px;
+padding-top:4px;
+padding-bottom:20px;
+}
+
+#rules {
+padding: 10px;
+border: 1px dashed black;
+background-color: #EDF0F8;
+}
+
+#message {
+padding: 10px;
+border: 1px dashed black;
+background-color: #F8F8F8;
+}
+
+.searchResultOriginal {
+border-top: 1px solid black;
+border-left: 1px solid black;
+border-right: 1px solid black;
+border-bottom: 1px dashed black;
+background-color: #F8F8F8;
+padding: 10px;
+}
+
+.searchResultTranslated {
+border-left: 1px solid black;
+border-right: 1px solid black;
+border-bottom: 1px solid black;
+background-color: #F8F8F8;
+padding: 10px;
+}
+
+#footer {
+	border-top:1px solid #4A6A9F;
+	width:740px;
+	padding-top:4px;
+	color:#819AC5
+}
+
+.s {
+margin-bottom:4px;
+}

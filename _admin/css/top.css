@@ -1,0 +1,39 @@
+/* El color de fondo del logo */
+.topBackgroundColor1 {
+	background-color: #FFFFFF;
+}
+
+/* El color de fondo del texto de bienvenida */
+.topBackgroundColor2 {
+	background-color: #B4ECEF;
+}
+
+/* La franja que separa el top con el resto */
+.topBackgroundColor3 {
+	background-color: #6B6C6E;
+}
+
+/* "Bievenido..." */
+.topWelcome {
+	font-family : "Trebuchet MS";
+	font-size : 10px;
+	color : #0066A3;
+	text-decoration : none;
+}
+
+/* El usuario */
+.topUser {
+	font-family : Verdana, Arial, sans-serif;
+	font-size : 10px;
+	color :  #0066A3;
+  font-weight : bold;
+	text-decoration : none;
+}
+
+/* Las opciones */
+.topOptions {
+	font-family : Verdana, Arial, sans-serif;
+	font-size : 10px;
+	color :  #0066A3;
+	text-decoration : none;
+}

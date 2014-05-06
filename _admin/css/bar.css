@@ -1,0 +1,33 @@
+body {
+	background-color: #5B5B5B;
+}
+
+/* La cabecera de una lista de opciones */
+.barHeader {
+	font-family : Tahoma;
+	font-size : 11px;
+  color : #ffffff;
+  background-color: #0078BF;
+  font-weight : bold;
+	text-decoration : none;
+	text-transform : uppercase;
+}
+
+/* Una opción */
+.barItem {
+	font-family : Tahoma;
+	font-size : 11px;
+	color : white;
+	text-decoration: none;
+}
+.barItem:hover {
+	font-family : Tahoma;
+	font-size : 11px;
+	color : #F68B1F;
+	text-decoration: underline;
+}
+
+/* Separación entre celdas */
+.barSeparation {
+	background-color: white;
+}

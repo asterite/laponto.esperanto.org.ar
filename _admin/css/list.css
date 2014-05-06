@@ -1,0 +1,80 @@
+/* Las palabras "Mostrando x al x" y "Páginas" de los listados */
+.listPagesLabel {
+	font-family : "Tahoma";
+	font-size : 11px;
+  color : #7F7F7F;
+	text-decoration : none;
+}
+
+/* Link a un número de página en los listados */
+.listPageLink {
+	font-family : "Tahoma";
+	font-size : 11px;
+  color : #7F7F7F;
+	text-decoration : underline;
+}
+
+/* El número de la página actual y la cantidad de registros totales en los listados */
+.listCurrentPage {
+	font-family : "Tahoma";
+	font-size : 11px;
+	font-weight: bold;
+  color : #0078BF;
+	text-decoration : none;
+}
+
+/* Cabeceras del listado */
+.listGridHeader {
+	font-family: Arial;
+	font-size: 11px;
+	font-weight: bold;
+  color: #FFFFFF;
+  background: #7F7F7F;
+}
+
+/* Filas impares de los listados */
+.listGridUnevenRow {
+	font-family : Arial, Verdana, sans-serif;
+	font-size : 11px;
+  color : #000000;
+  background-color: #EBF3F7;
+	text-decoration : none;
+}
+
+/* Filas pares de los listados */
+.listGridEvenRow {
+	font-family : Arial, Verdana, sans-serif;
+	font-size : 11px;
+  color : #000000;
+  background-color: #CFE9F7;
+	text-decoration : none;
+}
+
+/* El botón "Ingresar nuevo" de los listados */
+.listInsertButton {
+   FONT-SIZE: 9px;
+   BORDER-RIGHT: 1px solid #6CD2D8;
+   BORDER-TOP: 1px solid #CBFCFF;
+   BORDER-LEFT: 1px solid #CBFCFF;
+   BORDER-BOTTOM: 1px solid #6CD2D8;
+   FONT-FAMILY: Tahoma, sans-serif;
+  	color: #005F97;
+   text-transform: uppercase;
+   text-align: center;
+   text-decoration: none;
+   background-color: #B4ECEF;
+}
+/* El botón "Buscar" de los listados */
+.listSearchButton {
+   FONT-SIZE: 9px;
+   BORDER-RIGHT: 1px solid #00436A;
+   BORDER-TOP: 1px solid #00436A;
+   BORDER-LEFT: 1px solid #00436A;
+   BORDER-BOTTOM: 1px solid #00436A;
+   FONT-FAMILY: Tahoma, sans-serif;
+  	color: #00436A;
+   text-transform: uppercase;
+   text-align: center;
+   text-decoration: none;
+   background-color: white;
+}

@@ -1,0 +1,85 @@
+/* Color de fondo de los listados y páginas de edición */
+.abmBackgroundColor {
+	background-color : white;
+}
+
+/* Título de los listados y páginas de edición */
+.abmTitle {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #7F7F7F;
+	text-decoration: none;
+	font-weight: bold;
+	white-space: nowrap;	
+}
+/* Título de los listados y páginas de edición en los popups */
+.popupTitle {
+	font-family : Tahoma;
+	font-size : 11px;
+  color : white;
+  background-color: #7F7F7F;
+  font-weight : bold;
+	text-decoration : none;
+}
+
+/* El botón "Cerrar" de los popups */
+.popupClose {
+	font-family : Tahoma ;
+	font-size : 10px;
+  color : #4D4D4D;
+  background-color: #D2D2D2;
+  font-weight : bold;
+	text-decoration : underline;
+	text-transform: uppercase;
+}
+
+/* La franja que está a la izquierda del botón "Cerrar" de los popups */
+.popupCloseLeft {
+  background-color: #4D4D4D;
+}
+
+/* Instrucciones de los listados y páginas de edición */
+.abmInstructions {
+	font-family : "Trebuchet MS";
+	font-size : 11px;
+  color : #333333;
+	background-color: white;
+	text-decoration : none;
+}
+
+/* Lineas que separan a las instrucciones del título del abm y del listado o formulario de edición */
+.abmInstructionsSeparators {
+	background-color: #777777;
+}
+
+/* Texto de error */
+.abmError {
+	font-family : Verdana, Arial, sans-serif;
+	font-size : 11px;
+  color : #873E3E;
+  background-color: #F7F7F7;
+	text-decoration : none;
+}
+
+/* Los controles de los formularios y el login */
+input,textarea,select { 
+	FONT-FAMILY: Tahoma, sans-serif;
+   FONT-WEIGHT: normal;
+   FONT-SIZE: 11px;
+   COLOR: #0066A3;
+	border-color: #2A422C;
+   BORDER-RIGHT: 1px solid #0078BF;
+   BORDER-TOP: 1px solid #0078BF;
+   BORDER-LEFT: 1px solid #0078BF;
+   BORDER-BOTTOM: 1px solid #0078BF;
+ }
+body {
+SCROLLBAR-FACE-COLOR: #73AED0;
+SCROLLBAR-HIGHLIGHT-COLOR: #7FBBDD;
+SCROLLBAR-SHADOW-COLOR: #205979;
+SCROLLBAR-3DLIGHT-COLOR: #A4CFE7;
+SCROLLBAR-ARROW-COLOR: #205979;
+SCROLLBAR-TRACK-COLOR: #A6C6D6;
+SCROLLBAR-DARKSHADOW-COLOR: #7FBBDD;
+SCROLLBAR-BASE-COLOR: #50A2D1;
+}

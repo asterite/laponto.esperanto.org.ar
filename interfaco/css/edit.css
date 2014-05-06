@@ -1,0 +1,77 @@
+}
+
+body {
+	scrollbar-face-color: #4D4D4D;
+	scrollbar-highlight-color: #ffffff;
+	scrollbar-3dlight-color:#A9A9A9;
+	scrollbar-darkshadow-color: #000000;
+	scrollbar-track-color: #E4E4E4;
+	scrollbar-arrow-color: #ffffff;
+}
+/* Las instrucciones de campos obligatorios del formulario de las páginas de edición */
+.editFormHeader {
+	font-family : Tahoma;
+	font-size : 11px;
+  color : white;
+  background-color: #7F7F7F;
+  font-weight : bold;
+	text-decoration : none;
+}
+
+
+/* El nombre (lado izquierdo) de cada campo de edición de las páginas de edición */
+.editFieldName {
+	font-family : Tahoma;
+	font-size : 11px;
+	color : #7F7F7F;
+  font-weight : bold;
+	text-decoration : none;
+	background-color: #E7E7E7;
+}
+
+/* El valor (lado derecho) de cada campo de edición de las páginas de edición */
+.editFieldValue, .editFieldValue a {
+	font-family : Verdana, Arial, sans-serif;
+	font-size : 11px;
+  color : #005486;
+  background-color: #CFE9F7;
+}
+
+/* Un separador de campos, en las páginas de edición */
+.editSeparator {
+	font-family: "Trebuchet MS";
+	font-size: 11px;
+  color: white;
+  background: #6A9FBF;
+	text-transform: uppercase;
+	}
+
+/* El botón "Cancelar" de las páginas de edición y el botón "Volver" de las páginas de error */
+.editCancelButton {
+   FONT-SIZE: 9px;
+   BORDER-RIGHT: 1px solid #6CD2D8;
+   BORDER-TOP: 1px solid #CBFCFF;
+   BORDER-LEFT: 1px solid #CBFCFF;
+   BORDER-BOTTOM: 1px solid #6CD2D8;
+   FONT-FAMILY: Tahoma, sans-serif;
+  	color: #005F97;
+   text-transform: uppercase;
+   text-align: center;
+   text-decoration: none;
+   background-color: #B4ECEF;
+}
+
+/* El botón "Finalizar" de las páginas de edición */
+.editOkButton {
+   FONT-SIZE: 9px;
+   BORDER-RIGHT: 1px solid #6CD2D8;
+   BORDER-TOP: 1px solid #CBFCFF;
+   BORDER-LEFT: 1px solid #CBFCFF;
+   BORDER-BOTTOM: 1px solid #6CD2D8;
+   FONT-FAMILY: Tahoma, sans-serif;
+  	color: #005F97;
+   text-transform: uppercase;
+   text-align: center;
+   text-decoration: none;
+   background-color: #B4ECEF;
+}
